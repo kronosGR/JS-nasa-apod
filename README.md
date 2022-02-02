@@ -1,9 +1,9 @@
-# Javascript - 
+# Javascript - NASA apod
 
 * HTML
 * CSS
 * Javascript
-* 
+* Animation with Loaf app (https://getloaf.io/)
 
 
 ## Live site
